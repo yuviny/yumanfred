@@ -1,0 +1,347 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Yuviny",
+      "surnames": "Echevarría",
+      "description": "Over 10 years of experience on software development and scientific research. Extensive experience in computer programming languages such as: C++, C#, Java, Perl, Bash, Powershell and SQL. Experience designing and implementing machine learning algorithms such as: metaheuristic algorithms and genetic algorithms. Strong advocate of best practice in software ingeneering. Great soft skill highlighting teamwork at multicultural workplaces.",
+      "avatar": {
+        "alt": "m_uhM7kD_400x400.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/06/8eee97f1-8a46-457f-9b75-c48446479b6e_m_uhm7kd_400x400.jpg"
+      },
+      "location": {
+        "notes": "Spain"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/yuviny/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Espiral MS",
+          "URL": "https://www.proactivanet.com/proactivanet-inventario"
+        },
+        "roles": [
+          {
+            "name": "Software Developer at Proactivanet",
+            "startDate": "2017-10-01",
+            "challenges": [
+              {
+                "description": "Work developing agents that carry out the inventory of computer parks with a variety of hardware and software environments. This work has made me acquire skills with many technologies such as: Windows Management Instrumentation (WMI), Windows API, LDAP, XML, XPath, JSON, algoritmos de encriptación, etc. I have been working with relational databases:  Oracle and Microsoft SQL Server. On the other hand, I have been working with virtualization infrastructures such as: VMware, Hyper-V, AWS and Azure. I have developed scripts for Azure DevOps for deployment of the different components of the product."
+              }
+            ],
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Apple macOS",
+                "type": "technology"
+              },
+              {
+                "name": "Azure",
+                "type": "technology"
+              },
+              {
+                "name": "Bash",
+                "type": "technology"
+              },
+              {
+                "name": "C++",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Hyper-v",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "PL/SQL",
+                "type": "technology"
+              },
+              {
+                "name": "Perl",
+                "type": "technology"
+              },
+              {
+                "name": "PowerShell",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              },
+              {
+                "name": "VMWare",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio",
+                "type": "technology"
+              },
+              {
+                "name": "Windows",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "University of Oviedo",
+          "URL": "https://www.uniovi.es"
+        },
+        "roles": [
+          {
+            "name": "Computer Science PhD student",
+            "startDate": "2014-09-01",
+            "finishDate": "2017-07-01",
+            "challenges": [
+              {
+                "description": "Research in Computer Science focused in the develop of new machine learning algorithms for multi-objective genetic algorithms with applications in statimation of the state of charge and state of health of Li-Ion bateries for electrical vehicles."
+              }
+            ],
+            "competences": [
+              {
+                "name": "C++",
+                "type": "technology"
+              },
+              {
+                "name": "Eclipse",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Latex",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "University of Cienfuegos",
+          "URL": "http://www.ucf.edu.cu"
+        },
+        "roles": [
+          {
+            "name": "Full Professor and Software Engineer",
+            "startDate": "2009-09-01",
+            "finishDate": "2014-07-01",
+            "challenges": [
+              {
+                "description": "Developed applied research software for several clients.\nDeveloped, maintained and supported several information management systems.\nSupported and troubleshoot developed solutions for various clients.\n\nTraining postgraduate students in new technologies of Computer Programming and GNU/Linux.\nUndergraduate teacher for the following subjects: Computer Programming, Business Informátics and Computer Architecture."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Apache Tomcat",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Eclipse",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "Hibernate",
+                "type": "technology"
+              },
+              {
+                "name": "J2EE",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JBoss",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "LDAP",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "UML",
+                "type": "technology"
+              },
+              {
+                "name": "Windows",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": " Learning human-understandable models for the health assessment of Li-ion batteries via Multi-Objective Genetic Programming",
+          "description": "The health of automotive Li-ion batteries depends on different side reactions on the electrodes that may degrade the cells, thereby reducing their useable capacity and sometimes producing catastrophic failures with serious economic and safety implications. In this paper, a method of detection and prognosis of battery deterioration is proposed in which an intelligent soft sensor is able to synthesize human-understandable health indicators from sequences of voltages, currents and temperatures streamed via on-vehicle sensors. This soft sensor is based on a dynamic model optimizing three different criteria obtained by means of multi-objective grammatical evolution. Different survival selection strategies suitable for this problem are discussed and compared.",
+          "URL": "https://www.sciencedirect.com/science/article/abs/pii/S095219761930199X"
+        },
+        "type": "post",
+        "publishingDate": "2019-11-01",
+        "relatedCompetences": [
+          {
+            "name": "C++",
+            "type": "technology"
+          },
+          {
+            "name": "Eclipse",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "Latex",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C++",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": ".NET",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "PhD at Computer Science",
+        "startDate": "2014-09-01",
+        "finishDate": "2017-07-01",
+        "institution": {
+          "name": "University of Oviedo"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Master in Business Informatics ",
+        "startDate": "2010-10-01",
+        "finishDate": "2014-01-01",
+        "institution": {
+          "name": "Central University of Las Villas"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Informatics Engineering",
+        "startDate": "2004-09-01",
+        "finishDate": "2009-07-01",
+        "institution": {
+          "name": "University of Cienfuegos"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/yuviny/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": ".NET",
+          "type": "technology"
+        },
+        {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
