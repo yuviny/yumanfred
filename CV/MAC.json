@@ -160,6 +160,10 @@
       {
         "organization": {
           "name": "University of Cienfuegos",
+          "image": {
+            "alt": "índice.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/15/b47a2f50-ee50-4ade-8dcc-ad28f0cfc103_indice.png"
+          },
           "URL": "http://www.ucf.edu.cu"
         },
         "roles": [
