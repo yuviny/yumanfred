@@ -295,9 +295,10 @@
         "degreeAchieved": true,
         "name": "PhD at Computer Science",
         "startDate": "2014-09-01",
-        "finishDate": "2017-07-01",
+        "finishDate": "2017-08-01",
         "institution": {
-          "name": "University of Oviedo"
+          "name": "University of Oviedo",
+          "URL": "http://google.com"
         }
       },
       {
