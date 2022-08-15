@@ -29,6 +29,10 @@
       {
         "organization": {
           "name": "Espiral MS",
+          "image": {
+            "alt": "Logo_EspiralMS.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/15/5cda9d60-0f38-46f4-8785-c1de6ff06018_logo_espiralms.jpg"
+          },
           "URL": "https://www.proactivanet.com"
         },
         "roles": [
