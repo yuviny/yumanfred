@@ -298,7 +298,11 @@
         "finishDate": "2017-08-01",
         "institution": {
           "name": "University of Oviedo",
-          "URL": "https://www.uniovi.es/"
+          "URL": "https://www.uniovi.es/",
+          "image": {
+            "alt": "Logo_Universidad_de_Oviedo_centrado.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/15/7ad750be-7008-4b11-826f-1c1cbe6d9f96_logo_universidad_de_.jpg"
+          }
         }
       },
       {
