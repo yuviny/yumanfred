@@ -120,6 +120,10 @@
       {
         "organization": {
           "name": "University of Oviedo",
+          "image": {
+            "alt": "Logo_Universidad_de_Oviedo_centrado.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/15/c7c8bb3e-0693-45a1-800b-ec1418572114_logo_universidad_de_.jpg"
+          },
           "URL": "https://www.uniovi.es"
         },
         "roles": [
