@@ -317,9 +317,10 @@
         "degreeAchieved": true,
         "name": "Informatics Engineering",
         "startDate": "2004-09-01",
-        "finishDate": "2009-07-01",
+        "finishDate": "2009-08-01",
         "institution": {
-          "name": "University of Cienfuegos"
+          "name": "University of Cienfuegos",
+          "URL": "http://www.ucf.edu.cu"
         }
       }
     ]
