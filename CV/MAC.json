@@ -306,9 +306,10 @@
         "degreeAchieved": true,
         "name": "Master in Business Informatics ",
         "startDate": "2010-10-01",
-        "finishDate": "2014-01-01",
+        "finishDate": "2014-08-01",
         "institution": {
-          "name": "Central University of Las Villas"
+          "name": "Central University of Las Villas",
+          "URL": "http://google.com"
         }
       },
       {
