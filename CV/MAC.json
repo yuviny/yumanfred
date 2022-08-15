@@ -309,7 +309,11 @@
         "finishDate": "2014-08-01",
         "institution": {
           "name": "Central University of Las Villas",
-          "URL": "https://www.uclv.edu.cu/"
+          "URL": "https://www.uclv.edu.cu/",
+          "image": {
+            "alt": "índice.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/15/acb13a64-15f5-4592-88d8-ba0c5880c1cf_indice.jpg"
+          }
         }
       },
       {
