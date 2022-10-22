@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -14,7 +14,10 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/15/01169774-5c40-4902-afc2-e57cd468c249_m_uhm7kd_400x400.jpg"
       },
       "location": {
-        "notes": "Spain"
+        "country": "Irlanda",
+        "region": "County Cork",
+        "municipality": "Spain",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -275,13 +278,21 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
+      {
+        "skill": {
+          "name": ".NET",
+          "type": "technology"
+        }
+      },
       {
         "skill": {
           "name": "JAVA",
@@ -296,7 +307,7 @@
       },
       {
         "skill": {
-          "name": ".NET",
+          "name": "PHP",
           "type": "technology"
         }
       }
@@ -368,7 +379,13 @@
           "name": "JAVA",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Machine Learning Engineer",
+        "Research Developer"
       ]
-    }
+    },
+    "status": "openToOffers"
   }
 }
