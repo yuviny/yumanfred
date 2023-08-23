@@ -8,24 +8,18 @@
     "profile": {
       "name": "Yuviny",
       "surnames": "Echevarría",
-      "title": "",
+      "title": "Title",
       "description": "Over 10 years of experience on software development and scientific research. Extensive experience in computer programming languages such as: C#, Java, C++, Perl, Bash, Powershell and SQL. Strong advocate of best practice in software ingeneering. Experience designing and implementing machine learning algorithms like metaheuristic algorithms and genetic algorithms for optimization. Theoretical knowledge of lithium batteries technologies. Great soft skill highlighting teamwork at multicultural workplaces.",
       "avatar": {
-        "alt": "m_uhM7kD_400x400.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/15/01169774-5c40-4902-afc2-e57cd468c249_m_uhm7kd_400x400.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/15/01169774-5c40-4902-afc2-e57cd468c249_m_uhm7kd_400x400.jpg",
+        "alt": "m_uhM7kD_400x400.jpg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJnbCeYPqMNg0ROp7GfSvztfg)",
         "country": "España",
-        "region": "Principado de Asturias",
-        "notes": "Autocompleted using Google Maps API"
+        "region": "Principado de Asturias"
       }
-    },
-    "relevantLinks": [
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/yuviny/"
-      }
-    ]
+    }
   },
   "experience": {
     "jobs": [
@@ -33,8 +27,8 @@
         "organization": {
           "name": "Espiral MS",
           "image": {
-            "alt": "Logo_EspiralMS.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/15/5cda9d60-0f38-46f4-8785-c1de6ff06018_logo_espiralms.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/15/5cda9d60-0f38-46f4-8785-c1de6ff06018_logo_espiralms.jpg",
+            "alt": "Logo_EspiralMS.jpg"
           },
           "URL": "https://www.proactivanet.com"
         },
@@ -124,8 +118,8 @@
         "organization": {
           "name": "University of Oviedo",
           "image": {
-            "alt": "Logo_Universidad_de_Oviedo_centrado.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/15/c7c8bb3e-0693-45a1-800b-ec1418572114_logo_universidad_de_.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/15/c7c8bb3e-0693-45a1-800b-ec1418572114_logo_universidad_de_.jpg",
+            "alt": "Logo_Universidad_de_Oviedo_centrado.jpg"
           },
           "URL": "https://www.uniovi.es"
         },
@@ -164,8 +158,8 @@
         "organization": {
           "name": "University of Cienfuegos",
           "image": {
-            "alt": "índice.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/15/b47a2f50-ee50-4ade-8dcc-ad28f0cfc103_indice.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/15/b47a2f50-ee50-4ade-8dcc-ad28f0cfc103_indice.png",
+            "alt": "índice.png"
           },
           "URL": "http://www.ucf.edu.cu"
         },
@@ -271,9 +265,6 @@
             "name": "Latex",
             "type": "technology"
           }
-        ],
-        "tags": [
-          ""
         ]
       }
     ]
@@ -281,42 +272,18 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
         "level": "Professional working proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
         "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "C++",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": ".NET",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PowerShell",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JAVA",
           "type": "technology"
         }
       },
@@ -328,37 +295,19 @@
       },
       {
         "skill": {
-          "name": "Docker",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQLServer",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PHP",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Azure",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Oracle",
+          "name": "C++",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
           "type": "technology"
         }
       },
@@ -370,7 +319,43 @@
       },
       {
         "skill": {
-          "name": "SQL",
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Oracle",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PowerShell",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
           "type": "technology"
         }
       },
@@ -382,7 +367,13 @@
       },
       {
         "skill": {
-          "name": "JavaScript",
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLServer",
           "type": "technology"
         }
       }
@@ -391,49 +382,66 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "PhD at Computer Science",
-        "startDate": "2014-09-01",
-        "finishDate": "2017-08-01",
+        "name": "Informatics Engineering",
+        "startDate": "2004-09-01",
         "institution": {
-          "name": "University of Oviedo",
-          "description": "",
-          "URL": "https://www.uniovi.es",
+          "name": "University of Cienfuegos",
+          "URL": "http://www.ucf.edu.cu",
           "image": {
-            "alt": "Logo_Universidad_de_Oviedo_centrado.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/15/7ad750be-7008-4b11-826f-1c1cbe6d9f96_logo_universidad_de_.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/15/4f2350ca-2a1d-4b19-9ce8-8733294e1d30_indice.png",
+            "alt": "índice.png"
           }
-        }
+        },
+        "finishDate": "2009-08-01"
       },
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Master in Business Informatics ",
         "startDate": "2010-10-01",
-        "finishDate": "2014-08-01",
         "institution": {
           "name": "Central University of Las Villas",
-          "description": "",
           "URL": "https://www.uclv.edu.cu",
           "image": {
-            "alt": "índice.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/15/61b66d18-5b56-4de3-9e1c-66f64c71873a_indice.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/15/61b66d18-5b56-4de3-9e1c-66f64c71873a_indice.jpg",
+            "alt": "índice.jpg"
           }
-        }
+        },
+        "finishDate": "2014-08-01"
       },
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Informatics Engineering",
-        "startDate": "2004-09-01",
-        "finishDate": "2009-08-01",
+        "name": "PhD at Computer Science",
+        "startDate": "2014-09-01",
         "institution": {
-          "name": "University of Cienfuegos",
-          "description": "",
-          "URL": "http://www.ucf.edu.cu",
+          "name": "University of Oviedo",
+          "URL": "https://www.uniovi.es",
           "image": {
-            "alt": "índice.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/15/4f2350ca-2a1d-4b19-9ce8-8733294e1d30_indice.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/15/7ad750be-7008-4b11-826f-1c1cbe6d9f96_logo_universidad_de_.jpg",
+            "alt": "Logo_Universidad_de_Oviedo_centrado.jpg"
           }
+        },
+        "finishDate": "2017-08-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Capacidad de presentación",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Proactividad",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trabajo en equipo",
+          "type": "practice"
         }
       }
     ]
@@ -442,8 +450,17 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/yuviny/"
+          "URL": "https://www.linkedin.com/in/yuviny/",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "yuviny@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "644007100",
+          "countryCode": "+34"
         }
       ]
     },
@@ -464,16 +481,16 @@
         "Research Developer"
       ]
     },
-    "status": "openToOffers"
+    "status": "searchingActively"
   },
-  "asgardPreferences": {
+  "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "C++",
+        "name": ".NET",
         "type": "technology"
       },
       {
-        "name": ".NET",
+        "name": "C++",
         "type": "technology"
       },
       {
@@ -484,6 +501,8 @@
         "name": "SQL",
         "type": "technology"
       }
-    ]
+    ],
+    "desiredJobDescription": "I would like to work in product companies with a good work culture. In stable projects where there are technological challenges that allow me constant challenges and constant learning.",
+    "goodPractices": "SOLID principles of object-oriented design."
   }
 }
